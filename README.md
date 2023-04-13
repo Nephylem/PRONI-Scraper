@@ -1,4 +1,4 @@
-# Output 
+# Sample Output 
 
 | PLACE NAME | URBAN | TOWNLAND | PARISH | COUNTY | DATE FROM | DATE TO | PRONI REFERENCE | IMG URLS |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
